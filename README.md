@@ -26,3 +26,7 @@ Password: 123456<br>
 <code>ionic cap sync
 <br>
 <code>npm install -g json-server</code><br>
+
+
+<h3>Acceso Drive</h3>
+https://drive.google.com/drive/folders/1XkCR4kA1mYuebTFwI_Lr6oFK3cAEjJ3e?usp=sharing
