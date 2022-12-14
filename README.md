@@ -1,8 +1,19 @@
 # TeLlevoApp
 TeLlevoApp, Proyecto Semestral.
 
-<h2>Figma con Diseño</h2>
-https://www.figma.com/file/0DdWiSpN4gnymPt8L3Z7zU/TeLlevoApp?node-id=36%3A3
+<h2>USUARIOS</h2>
+
+Correo: admin@duocuc.cl
+Password: admin1
+Tipo: Administrador
+
+Correo: a.echanes@duocuc.cl
+Password: 123456
+"Conductor"
+
+Correo: jor.ruizp@duocuc.cl
+Password: 123456
+"Pasajero"
 
 <h3>Modulos:</h3>
 <code>npm install node-fetch@2.0</code><br>
