@@ -16,7 +16,13 @@ Password: 123456<br>
 "Pasajero"<br>
 <br>
 <h3>Modulos:</h3>
+<code>npm install --save @ionic/storage</code><br>
+<code>npm install --save @ionic/storage-angular</code><br>
+<br>
+<br>
 <code>npm install node-fetch@2.0</code><br>
-<code>npm install cheerio</code><br>
-<h4>O usar</h4>
-<code>npm install node-fetch@2.0 cheerio</code><br>
+<code>npm i swiper</code><br>
+<br>
+<code>ionic cap sync
+<br>
+<code>npm install -g json-server</code><br>
